@@ -1,0 +1,11 @@
+{
+  "name": "workflows",
+  "version": "1.0.0",
+  "description": "Lynda course on workflows",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Jon Wadsworth",
+  "license": "MIT"
+}
